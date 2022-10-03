@@ -10,6 +10,9 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+	"linebreak-style": ["error", "windows"],
+	"indent": ["error", "tab"],
+	"no-tabs": 0
   }
 }
